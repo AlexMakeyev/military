@@ -47,16 +47,3 @@ export const NavItemContainer = styled.div`
   margin-top: 15px;
   margin-bottom: 15px;
 `;
-// width: 76px;
-// height: 20px;
-
-// font-family: 'Inter';
-// font-style: normal;
-// font-weight: 900;
-// font-size: 16px;
-// line-height: 19px;
-// /* identical to box height */
-
-// text-align: center;
-
-// color: #D9D9D9;
